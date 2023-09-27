@@ -48,6 +48,13 @@ I am studing at Faculty of Computer science, Kasetsart University.
 ---
 - jenkins ![](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
+<span style="color:blue"> contact </span>
+---
+<div style="display:flex">
+    <a href="https://www.facebook.com/kornnawit.pottanachovanit">
+        <img src="https://www.pngrepo.com/download/242369/facebook.png" alt="logo facebook" width="50" height="50">
+    </a>
+</div>
 
 <!-- 
 **kornavit/kornavit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
